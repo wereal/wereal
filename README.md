@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wereal or else Marios 
 - 👀 I’m interested in Web Development and in web technologys in general  
 - 🌱 I’m currently learning fronted development 
-- 📫 How to reach me ma
+- 📫 How to reach me [ma](https://www.linkedin.com/in/iosifidismarios/)
 
 <!---
 wereal/wereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
