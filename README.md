@@ -4,8 +4,17 @@
 
 I'Marios Iosifidis Aka @wereal from Greece , and im a computer science student doing my bachelor's in University Of Western Macedonia Kastoria .I really enoy learning languages and frameworks as well as work in WordPress.I also enjoin experimenting/wireframing , ui , ux , and design in general.I’m interested in Web Development and in web technologys in general and currently Focusing on fronted Technologies. 👀
 
-
-            <i class="devicon-bootstrap-plain-wordmark colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
+          
+          
+          
+          
+          
           
 
 - 🔭 I’m currently working on portfolio site  and some side projects 
