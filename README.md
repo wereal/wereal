@@ -6,4 +6,3 @@ I'Marios Iosifidis Aka @wereal from Greece , and im a computer science student d
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/wereal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iosifidismarios//)  
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/wereal)  
