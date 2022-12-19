@@ -8,6 +8,6 @@ Skills: REACT (learning) / JS(learning) / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on portfolio site  and some side projects 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/wereal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iosifidismarios//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/wereal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>][https://www.linkedin.com/in/iosifidismarios//)](https://www.linkedin.com/in/iosifidismarios) 
 
 
