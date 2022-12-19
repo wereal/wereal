@@ -9,9 +9,6 @@ I'Marios Iosifidis Aka @wereal from Greece , and im a computer science student d
 <br>
 <style>{
 .center-square{
-    background: $aqua;
-    
-    &:before{
       content: "";
       width: 6px;
       height: 6px;
