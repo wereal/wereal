@@ -10,8 +10,7 @@ Hello my name is Marios Iosifidis Aka Wereal and im from Greece,im a computer sc
 <hr> 
 
 <div align="center">
-🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iosifidismarios/)
+🌐 Socials: <a href="https://www.linkedin.com/in/iosifidismarios//" target="_blank" ><img alt='linkedin' height='40' style="padding-right:5px;" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' ></a>
 
 
 
