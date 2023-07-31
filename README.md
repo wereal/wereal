@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marios Iosifidis</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
-- 🔭 I’m currently working on [developing PLUG VENUE MEDIA](https://plugvenuemedia.com/)
+
 
 - 🌱 I’m currently developing a variable gama of skill sets **ui ux wpdev**
 
